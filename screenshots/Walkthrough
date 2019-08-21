@@ -1,0 +1,6 @@
+In the image 3, the inputs "Sherlock", "Irene" and "0" were added.
+Further, "Irene" was given as the input in image 6.
+Numbers (like 1,2,3 etc.) ranging from 1-9(both inclusive) were passed as the input.
+The program automatically detects when a player wins, in this case Irene(Hooray!).
+Any random key could be pressed to exit.
+'Y' or 'y' could be pressed to restart the game from image 3.
